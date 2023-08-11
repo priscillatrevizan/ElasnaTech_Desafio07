@@ -1,13 +1,17 @@
-*{
-	margin: 0;
-	padding: 0;
-	border: 0;
+* {
+    box-sizing: border-box;
+    outline: 0;
 }
 
 body {
+	margin: 0;
+	padding: 0;
 	background: linear-gradient(172deg, rgb(253, 107, 180),rgb(245, 109, 177), rgb(248, 201, 224));
 	background-repeat: no-repeat;
 	font-family: 'PT Sans', sans-serif;
+	width: 100%;
+	height: 100%;
+	line-height: 1.5rem;
 }
 
 li{
@@ -103,4 +107,18 @@ footer h2 {
 footer h3 {
 	color: #975065;
 	font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+    body {
+        font-size: 16px; 
+		height: 100%;
+		width: 100%;
+    }
+
+    .wrapper {
+        width: 97%; 
+		margin: 5px;
+        padding: 5px;
+    }
 }
