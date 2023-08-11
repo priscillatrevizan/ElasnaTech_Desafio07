@@ -1,10 +1,10 @@
 # Calculadora Simples usando JavaScript
 
-Esta é uma calculadora simples desenvolvida usando HTML, CSS e JavaScript. A calculadora permite que o usuário insira dois números e selecione uma operação (adição, subtração, multiplicação ou divisão) para calcular o resultado.
+Este é um projeto de calculadora simples desenvolvida com HTML, CSS e JavaScript. A calculadora permite que os usuários insiram dois números e selecionem uma operação (adição, subtração, multiplicação ou divisão) para calcular o resultado.
 
 ## Recursos
 
-- Calculadora interativa com interface amigável.
+- Calculadora interativa com uma interface amigável.
 - Suporta operações de adição, subtração, multiplicação e divisão.
 - Design responsivo e agradável aos olhos.
 
@@ -28,14 +28,16 @@ Nenhum pré-requisito é necessário para executar a calculadora. Basta abrir o 
 - JavaScript
 - Font Awesome (para ícones)
 
+## Versão Online
+
+Você pode acessar a versão online desta calculadora em: [https://calculadora-ten-cyan.vercel.app/](https://calculadora-ten-cyan.vercel.app/)
+
 ## Autor
 
-Elaborado por Priscilla Trevizan como parte do desafio da aula 12 do projeto Elas na Tech.
+Este projeto foi elaborado por Priscilla Trevizan como parte do desafio da aula 12 do projeto "Elas na Tech".
 
 ## Licença
 
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo `LICENSE` para obter mais detalhes.
 
----
-
-Feito com ❤️ por Priscilla Trevizan
+Feito com ❤️ por Priscilla Trevizan.
