@@ -8,31 +8,40 @@
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet">
+
+	<script src="index.js"></script> 
+	<script src="https://kit.fontawesome.com/a81e0a348f.js" crossorigin="anonymous"></script>
 </head>
 <body>
+	<main>		
+
 	<div class="wrapper">
 
 		<h2>Calculadora Simples</h2>
 			<input id="num-one" name="num-one" type="text" placeholder="Informe aqui o primeiro número">
-			<input id="num-two" name="num-two" type="text" placeholder="Informe aqui o segundo número">
+			
 		<br>
 		<div class="check-box">	
 			<br>
-				<input checked id="box1" name="sign-area" type="radio" value="add" ><b> + </b> 
-				<input id="box2" name="sign-area" type="radio" value="subtract"><b> - </b> 
-				<input id="box3" name="sign-area" type="radio" value="multiply"><b> x </b> 
-				<input id="box4" name="sign-area" type="radio" value="divide"><b> ÷ </b><br>
+				<li><input checked id="box1" name="sign-area" type="radio" value="add" ><b> + </b></li> 
+				<li><input id="box2" name="sign-area" type="radio" value="subtract"><b> - </b> </li>
+				<li><input id="box3" name="sign-area" type="radio" value="multiply"><b> x </b></li> 
+				<li><input id="box4" name="sign-area" type="radio" value="divide"><b> ÷ </b><br></li>
 			<br>
 		</div>
 
-
+		<input id="num-two" name="num-two" type="text" placeholder="Informe aqui o segundo número">
+		<br>
 		<button onclick="outcome()" type="button">calculate</button>
 
 		<h1 id="resultArea"></h1>
 
 	</div>
-	<script src="index.js">
-	</script> 
-
+	</main>
+	<footer>
+		<h1>Elas na Tech <i class="far fa-heart"></i></h1>
+		<h2>Desafio aula 12</h2>
+		<h2>Elaborado por Priscilla Trevizan</h2>
+	</footer>
 </body>
 </html>
