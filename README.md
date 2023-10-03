@@ -1,3 +1,6 @@
+# ElasnaTech_Desafio07
+Aula 12 - Desafio 07
+
 # Calculadora Simples usando JavaScript
 
 Este é um projeto de calculadora simples desenvolvida com HTML, CSS e JavaScript. A calculadora permite que os usuários insiram dois números e selecionem uma operação (adição, subtração, multiplicação ou divisão) para calcular o resultado.
