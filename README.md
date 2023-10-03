@@ -33,7 +33,7 @@ Nenhum pré-requisito é necessário para executar a calculadora. Basta abrir o 
 
 ## Versão Online
 
-Você pode acessar a versão online desta calculadora em: [https://calculadora-ten-cyan.vercel.app/](https://calculadora-ten-cyan.vercel.app/)
+Você pode acessar a versão online desta calculadora em: https://priscillatrevizan.github.io/ElasnaTech_Desafio07/
 
 ## Autor
 
